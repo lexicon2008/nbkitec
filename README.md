@@ -1,2 +1,2 @@
 # nbkitec
-its about our codes
+its about using codes to improve the world of IT
